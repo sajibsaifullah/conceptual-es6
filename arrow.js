@@ -1,4 +1,10 @@
-
+/* 
+=> hoisting----> call a function before declaring
+=> fn declaration: function show(){}
+=> fn expression:  const add = function(){}
+=> fn expression does not hoist
+=> implicit return----> when fn in one line
+*/
 
 // show()
 

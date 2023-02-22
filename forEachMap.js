@@ -19,6 +19,9 @@ arr.map((number,index,a) => {
 // console.log(newArr)
 // console.log(arr)
 
-
+/* 
+=> .map returns an array
+=> 
+*/
 
 

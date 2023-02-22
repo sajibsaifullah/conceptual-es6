@@ -25,3 +25,9 @@ console.log(Person.education.subjects[1].mark)
 // const aa = Person[property]
 
 // console.log(aa)
+
+/* 
+1. dot notation [***mostly use***]
+2. bracket notation
+3. use variable (variable notation)
+*/

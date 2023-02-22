@@ -20,5 +20,9 @@ const petOwner = {
 // console.log('hello')
 
 
+/* 
+without optional chaining code does not go ahead when code has an error.
+*/
+
 
 

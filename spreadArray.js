@@ -40,6 +40,12 @@ console.log(first,second)
 console.log(mehedy)
 console.log(arr)
 
+/* 
+=> to convert an array to separate elements-----> use (...) before an array
+=> very important use of array spreading -----> to enter an array to another array
+=> non-primitive data save in address location
+=> In destructing array strictly follow serial but object doesn't follow serial
+*/
 
 
 

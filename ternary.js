@@ -14,3 +14,8 @@ paragraph = (isStudent === true) ? "he is student" : " porasuna vallagena"
 
 console.log(paragraph)
 
+
+/* use Ternary operator for easily use use/operate/maintain two conditions
+        [use => only for two conditions]
+*/
+

@@ -1,5 +1,5 @@
 // global scope
-
+// Local scope
 // block scope
 
 

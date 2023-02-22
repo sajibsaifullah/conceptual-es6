@@ -7,7 +7,10 @@ const x = numbers.filter(n => n >= 500)
 console.log(x)
 
 
-
+/* 
+=> .find ---> if does not match condition, it returns 'undefined'
+=> .filter ---> if does not match condition, it returns []=> (empty array)
+*/
 
 
 
