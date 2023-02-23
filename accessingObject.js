@@ -20,8 +20,8 @@ console.log(Person.education.subjects[1].mark)
 
 // const age = Person.age;
 // const a = Person['name']
-// const property = 'name'
 
+// const property = 'name'
 // const aa = Person[property]
 
 // console.log(aa)
